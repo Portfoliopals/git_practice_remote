@@ -2,7 +2,9 @@ body {
     background-color: blanchedalmond;
     color: darkgreen;
 }
-
 li{
     color: darkmagenta;
+}
+h2{
+    color: red;
 }
